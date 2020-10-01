@@ -117,7 +117,7 @@ namespace 测试_控制台
         const byte Clear = 12;
         const byte Enter_主键盘 = 13;
         const byte Shift = 16;
-        const byte Control = 17;
+        const byte Control = 17;    //ctrl键
         const byte Alt = 18;
         const byte CapeLock = 20;
         const byte Esc = 27;
